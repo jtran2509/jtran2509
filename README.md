@@ -12,7 +12,7 @@ I bring clinical-grade precision to the full ML cycle. My unique background in h
 |---------|-------------|------------|
 | **🌲 Forest Carbon MRV** | Satellite-based carbon stock monitoring with Sentinel-2 & deep learning. PyTorch, U-Net, Streamlit, GeoPandas. | [Repo](https://github.com/jtran2509/forest_carbon_mrv) · [Demo](https://forestcarbonmrv.streamlit.app/) |
 | **🧠 Brain Tumor Classifier** | MRI classification (Glioma, Meningioma, etc.) with 92% accuracy & Grad-CAM. PyTorch, MONAI, Streamlit. | [Repo](https://github.com/jtran2509/ai_brain_tumor_dashboard) · [Demo](https://aibraintumordashboard.streamlit.app/) |
-| **💬 Reddit Employment Pulse** | NLP dashboard analyzing 8,000+ Reddit posts on immigrant employment trends. BART, VADER, TextBlob, Streamlit. | [Repo](https://github.com/jtran2509/reddit-employment-trends) · [Demo]([https://aibraintumordashboard.streamlit.app/](https://reddit-employment-trends-c7mf5bu4wr68bgmejrorqu.streamlit.app/)) |
+| **💬 Reddit Employment Pulse** | NLP dashboard analyzing 8,000+ Reddit posts on immigrant employment trends. BART, VADER, TextBlob, Streamlit. | [Repo](https://github.com/jtran2509/reddit-employment-trends) · [Demo](https://aibraintumordashboard.streamlit.app/](https://reddit-employment-trends-c7mf5bu4wr68bgmejrorqu.streamlit.app/) |
 
 *Click each project for live demos!*
 
