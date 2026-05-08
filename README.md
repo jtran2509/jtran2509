@@ -2,7 +2,7 @@
 
 🦷 **Dental Hygienist turned Data Scientist** | 🧠 **From Teeth to Transformer**
 
-I bring clinical-grade precision to the full ML cycle. My unique background in healtcare taught me how to interpret complex findings and communicate them clearly-skills I now apply daily to build explainable, impactful AI systems.
+I bring clinical-grade precision to the full ML cycle. My unique background in healthcare taught me how to interpret complex findings and communicate them clearly-skills I now apply daily to build explainable, impactful AI systems.
 
 ---
 
@@ -10,9 +10,9 @@ I bring clinical-grade precision to the full ML cycle. My unique background in h
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**🌲 Forest Carbon MRV**](https://github.com/jtran2509/forest_carbon_mrv) | Satellite-based carbon stock monitoring with Sentinel-2 imagery & deep learning | PyTorch, U-Net, Streamlit, GeoPandas |
-| [**🧠 Brain Tumor Classifier**](https://github.com/jtran2509/ai_brain_tumor_dashboard) | MRI classification (Glioma, Meningioma, etc.) with 92% accuracy & Grad-CAM explainability | PyTorch, MONAI, Streamlit |
-| [**💬 Reddit Employment Pulse**](https://github.com/jtran2509/reddit-employment-trends) | NLP dashboard analyzing 8,000+ Reddit posts on immigrant employment trends | BART, VADER, TextBlob, Streamlit |
+| **🌲 Forest Carbon MRV** | Satellite-based carbon stock monitoring with Sentinel-2 & deep learning. PyTorch, U-Net, Streamlit, GeoPandas. | [Repo](https://github.com/jtran2509/forest_carbon_mrv) · [Demo](https://forestcarbonmrv.streamlit.app/) |
+| **🧠 Brain Tumor Classifier** | MRI classification (Glioma, Meningioma, etc.) with 92% accuracy & Grad-CAM. PyTorch, MONAI, Streamlit. | [Repo](https://github.com/jtran2509/ai_brain_tumor_dashboard) · [Demo](https://aibraintumordashboard.streamlit.app/) |
+| **💬 Reddit Employment Pulse** | NLP dashboard analyzing 8,000+ Reddit posts on immigrant employment trends. BART, VADER, TextBlob, Streamlit. | [Repo](https://github.com/jtran2509/reddit-employment-trends) · [Demo](https://reddit-employment-trends.streamlit.app/) |
 
 *Click each project for live demos!*
 
